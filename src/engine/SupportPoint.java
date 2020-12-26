@@ -1,0 +1,8 @@
+package engine;
+
+public enum SupportPoint {
+    TOP_LEFT, TOP_MIDDLE, TOP_RIGHT,
+    LEFT_MIDDLE, RIGHT_MIDDLE,
+    BOTTOM_LEFT, BOTTOM_MIDDLE, BOTTOM_RIGHT,
+    START, END
+}
